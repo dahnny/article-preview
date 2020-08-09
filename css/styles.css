@@ -190,3 +190,11 @@ h2 {
     background-color: hsl(210, 46%, 95%);
   }
 }
+
+@media (max-width: 375px){
+    .container {
+        left: 0%;
+        top: 15%;
+      
+    }
+}
