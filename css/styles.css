@@ -127,9 +127,8 @@ h2 {
 
 @media (max-width: 1024px) {
   .container {
-    
-      left: 20%;
-      top: 15%;
+    left: 20%;
+    top: 15%;
     width: 350px;
     height: 600px;
   }
@@ -192,10 +191,9 @@ h2 {
   }
 }
 
-@media (max-width: 500px){
-    .container {
-        position: static;  
-        top: 15%;
-      
-    }
+@media (max-width: 500px) {
+  .container {
+    position: static;
+    margin-bottom: 15%;
+  }
 }
