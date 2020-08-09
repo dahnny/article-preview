@@ -193,7 +193,8 @@ h2 {
 
 @media (max-width: 500px) {
   .container {
-    position: static;
-    margin-bottom: 15%;
+    position: absolute;
+    left: 10px;
+
   }
 }
