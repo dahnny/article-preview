@@ -1,5 +1,7 @@
 # Frontend Mentor - Article preview component
 
+The link to work  on the project -https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT/hub/article-preview-component-1HGaV7HMA
+
 ![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
